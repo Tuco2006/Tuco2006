@@ -11,8 +11,8 @@ I code with:
 
 I also have experience with:
 
-![Canva badge](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg)
-![AWS badge](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+![Canva Badge](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <!--
 **Tuco2006/Tuco2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
